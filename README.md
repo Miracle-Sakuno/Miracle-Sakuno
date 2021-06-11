@@ -18,5 +18,6 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 **You are probably also looking for...**
 
 - [Asus VivoBook X509FB Hackintosh Laptop-EFI](https://github.com/Miracle-Sakuno/Asus-VivoBook-X509FB-Hackintosh)
+- [Asus P8B75-V Hackintosh Desktop-EFI](https://github.com/Miracle-Sakuno/Asus-P8B75V-Hackintosh-Desktop)
 
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.

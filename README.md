@@ -26,7 +26,7 @@ You can subscribe me by clicking the "Follow" button. If you like my projects, y
 ### 注意：本人公开的社交账号仅为此Github，Twitter和Telegram频道，以及本人QQ账号为：2112074157。除以上四个本人专用账号之外，其他任何以我的名义来发布消息的都是骗子，注意核实
 ### 尤其注意此人QQ账号：1063995989，1248394877长时间故意盗用本人身份发布各类不实消息，请各位注意核实，并帮助我举报他。
 
-#### 新进展：本人于2021年10月12日 01:08在QQ客户端收到了来自“浪 迹 天 涯”（QQ号:1248394877）的网络语言暴力袭击，据查证，此人跟QQ号:1063995989为同一个人。关于网络暴力行为的截图我已经存到[Evidence](https://github.com/Miracle-Sakuno/Evidence)仓库内.
+#### 新进展：本人于2021年10月12日 01:08在QQ客户端收到了来自QQ号:1248394877的网络语言暴力袭击，据查证，此人跟QQ号:1063995989为同一个人。关于网络暴力行为的截图我已经存到[Evidence](https://github.com/Miracle-Sakuno/Evidence)仓库内.
 
 ### 感谢各位支持
 

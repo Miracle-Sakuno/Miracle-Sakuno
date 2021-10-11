@@ -24,7 +24,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
 
 ### 注意：本人公开的社交账号仅为此Github，Twitter和Telegram频道，以及本人QQ账号为：2112074157。除以上四个本人专用账号之外，其他任何以我的名义来发布消息的都是骗子，注意核实
-### 尤其注意此人QQ账号：1063995989，长时间故意盗用本人身份发布各类不实消息，请各位注意核实，并帮助我举报他
+### 尤其注意此人QQ账号：1063995989，1248394877长时间故意盗用本人身份发布各类不实消息，请各位注意核实，并帮助我举报他。
 ### 感谢各位支持
 
 Note: my social account is only for GitHub, twitter and telegraph channels, and my QQ account is 2112074157. In addition to the above four personal accounts, any other person who publishes information in my name is a liar. Pay attention to verification

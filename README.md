@@ -7,7 +7,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 <img align="right" src="https://github-readme-stats.mrdulin.vercel.app/api?username=miracle-sakuno&show_icons=true&hide_border=true&icon_color=79dafa&title_color=ff6e96&text_color=FF75B5&" align="right">
 </a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracle-sakuno&layout=compact)](https://github.com/Miracle-Sakuno/)" align="right">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracle-sakuno&layout=compact)](https://github.com/Miracle-Sakuno/General-EFI-for-OpenCore-Config)" align="right">
 </a>
 
 - [General-EFI-for-OpenCore-config](https://github.com/Miracle-Sakuno/General-EFI-for-OpenCore-Config) Project Maintainer

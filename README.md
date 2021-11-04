@@ -5,7 +5,7 @@ Welcome to Rabbit House. This is Miracle Sakuno's  Coffee House☕️.
 A child who is expected to be born in blessing, symbolizing miracle and happiness.
 「氷結の魔女」
 
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=miracle-sakuno&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=miracle-sakuno&show_icons=true&theme=radical&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
 
 - [General-EFI-for-OpenCore-config](https://github.com/Miracle-Sakuno/General-EFI-for-OpenCore-Config) Project Maintainer
 

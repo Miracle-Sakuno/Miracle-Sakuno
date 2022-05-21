@@ -9,12 +9,11 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 - [General-EFI-for-OpenCore-config](https://github.com/Miracle-Sakuno/General-EFI-for-OpenCore-Config) Project Maintainer
 
-**Where to find me**
+**Contact information**
 
 - [My GitHub](https://github.com/Miracle-Sakuno/)
 - [Twitter](https://twitter.com/Miracle_Sakuno)
-- [Telegram Channel](https://t.me/RabbitHouse_i)
-- QQ (2112074157)
+- [![Telegram Channel](https://img.shields.io/badge/%40Rabbit%20House-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/RabbitHouse_i)
 
 **You are probably also looking for...**
 
@@ -22,11 +21,6 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 - [Asus P8B75-V Hackintosh Desktop-EFI](https://github.com/Miracle-Sakuno/Asus-P8B75V-Hackintosh-Desktop)
 
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
-
-### 注意：本人公开的社交账号仅为此Github，Twitter和Telegram频道，以及本人QQ账号为：2112074157。除以上四个本人专用账号之外，其他任何以我的名义来发布消息的都是骗子，注意核实
-### 尤其注意此人QQ账号：1063995989，1248394877长时间故意盗用本人身份发布各类不实消息，请各位注意核实，并帮助我举报他。
-
-#### 新进展：本人于2021年10月12日 01:08在QQ客户端收到了来自QQ号:1248394877的网络语言暴力袭击，据查证，此人跟QQ号:1063995989为同一个人。关于网络暴力行为的截图我已经存到[Evidence](https://github.com/Miracle-Sakuno/Evidence)仓库内.
 
 ### 感谢各位支持
 

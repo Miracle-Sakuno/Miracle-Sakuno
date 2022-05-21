@@ -27,13 +27,16 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 [![MacBook Air](https://img.shields.io/badge/MacBook%20Air-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macbook-air/)
 
-[![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826?locale=en_US)
+[![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826)
+
+[![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13-pro/specs/)
 
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 
 ### Power Core (maid's💻)
 [![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/)
 [![macOS](https://img.shields.io/badge/macOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/)
+[![watchOS](https://img.shields.io/badge/watchOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com.cn/watchos/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/)
 [![Windows on ARM](https://img.shields.io/badge/Windows%20on%20ARM-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
 

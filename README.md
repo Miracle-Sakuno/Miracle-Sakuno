@@ -4,12 +4,16 @@ Welcome to Rabbit House. This is Miracle Sakuno's  Coffee House☕️.
 > Princess of the far north, ruler of the winter sea.
 A child who is expected to be born in blessing, symbolizing miracle and happiness.
 
->「氷結の魔女」(雾)
+>「氷結の魔女」
 
-
+- 🌱 I'm a voice actor and a student.
+- I like cute things.
+- You can simply call me "小樱" or "嘤嘤乃".
+- I like playing games.
+- Basic use of computer equipment, can study.
+- I hope I can become an excellent dubbing actor.
 
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=miracle-sakuno&show_icons=true&hide_border=true&icon_color=79dafa&title_color=ff6e96&text_color=FF75B5" align="right">
-
 
 **Contact information**
 

@@ -15,7 +15,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 - [![Telegram Channel](https://img.shields.io/badge/%40Rabbit%20House-0088CC???style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/RabbitHouse_i)
 
 ### 📱 Assistant Devices
-[![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13-Pro/specs/)
+[![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13-pro/specs/)
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.

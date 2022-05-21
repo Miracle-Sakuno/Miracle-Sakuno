@@ -13,7 +13,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 - [My GitHub](https://github.com/Miracle-Sakuno/)
 - [Twitter](https://twitter.com/Miracle_Sakuno)
-- [![Telegram Channel](https://img.shields.io/badge/%40Rabbit%20House-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/RabbitHouse_i)
+- [![Telegram Channel](https://img.shields.io/badge/%40Rabbit%20House-0088CC??style=flat-square&logo=appveyor&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/RabbitHouse_i)
 
 **You are probably also looking for...**
 

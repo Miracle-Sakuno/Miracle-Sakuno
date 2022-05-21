@@ -40,10 +40,6 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/)
 [![Windows on ARM](https://img.shields.io/badge/Windows%20on%20ARM-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
 
-### Genshin Impact (yuanshen)
-
-![荧](https://genshin-card.getloli.com/2/297901542.png)
-
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
 
 Thank you for your support

@@ -27,6 +27,8 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 [![MacBook Air](https://img.shields.io/badge/MacBook%20Air-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macbook-air/)
 
+[![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826?locale=en_US)
+
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 
 ### Power Core (maid's💻)

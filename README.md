@@ -21,6 +21,11 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 
+### 💻 Power Core (maid's)
+[![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/)
+[![macOS](https://img.shields.io/badge/macOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12L/)
+
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
 
 Thank you for your support

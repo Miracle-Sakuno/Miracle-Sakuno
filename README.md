@@ -42,7 +42,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 ### Genshin Impact (yuanshen)
 
-![荧](https://genshin-card.getloli.com/rand/297901542.png)
+![荧](https://genshin-card.getloli.com/2/297901542.png)
 
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
 

@@ -11,7 +11,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 **Contact information**
 
-- [My GitHub](https://github.com/Miracle-Sakuno/)
+- [![My GitHub](https://img.shields.io/badge/%40Miracle樱乃.-4F4F4F???style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=4F4F4F)](https://github.com/Miracle-Sakuno/)
 - [![Twitter](https://img.shields.io/badge/%40Miracle樱乃.-00BBFF???style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=00BBFF)](https://twitter.com/Miracle_Sakuno)
 - [![Telegram Channel](https://img.shields.io/badge/%40Rabbit%20House-0088CC???style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/RabbitHouse_i)
 

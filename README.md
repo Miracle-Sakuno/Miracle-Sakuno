@@ -6,6 +6,8 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 >「氷結の魔女」(雾)
 
+
+
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=miracle-sakuno&show_icons=true&hide_border=true&icon_color=79dafa&title_color=ff6e96&text_color=FF75B5" align="right">
 
 
@@ -26,6 +28,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 [![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/)
 [![macOS](https://img.shields.io/badge/macOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/)
+[![Windows on ARM](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
 
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
 

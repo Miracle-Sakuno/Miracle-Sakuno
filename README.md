@@ -10,7 +10,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 - 💕I like cute things.
 - 😸You can simply call me "小樱" or "嘤嘤乃".
 - ✨I like playing games(For example Genshin Impact etc..).
-- 👀Basic use of computer equipment, can study.
+- 👀Basic computer skills, will study.
 - 😊I hope I can become an excellent dubbing actor.
 - 🐼🐇❤️I love my motherland, China.
 

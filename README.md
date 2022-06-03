@@ -24,6 +24,8 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 ### Cuteness maids (Devices📱)
 [![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13-pro/specs/)
+[![iPhone 6s](https://img.shields.io/badge/iPhone%206s-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP726)
+[![iPhone 6s Plus](https://img.shields.io/badge/iPhone%206s%20Plus-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP727)
 
 [![MacBook Air](https://img.shields.io/badge/MacBook%20Air-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macbook-air/)
 

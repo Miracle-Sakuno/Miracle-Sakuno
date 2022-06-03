@@ -45,7 +45,7 @@ Environment
 
 ### Genshin Impact (🌸)
 
-- ![Genshin Impact](https://genshin-card.getloli.com/4/297901542.png)
+![Genshin Impact](https://genshin-card.getloli.com/15/297901542.png)
 
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
 

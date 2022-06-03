@@ -29,9 +29,9 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 [![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826)
 
-[![iPod Nano 6](https://img.shields.io/badge/iPod%20Nano%2066-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826)
+[![iPod Nano 6](https://img.shields.io/badge/iPod%20Nano%206-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826)
 
-[![iPod Shuffle 4th Gen](https://img.shields.io/badge/iPod%20Shuffle%204th%204Gen6-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826)
+[![iPod Shuffle 4th Gen](https://img.shields.io/badge/iPod%20Shuffle%204th%20Gen6-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826)
 
 [![Google Pixel 3](https://img.shields.io/badge/Google%20Pixel%203-3ddc84?style=flat-square&logo=google&logoColor=FFFFFF)](https://store.google.com/)
 

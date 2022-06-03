@@ -26,6 +26,9 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 [![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13-pro/specs/)
 [![iPhone 6s](https://img.shields.io/badge/iPhone%206s-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP726)
 [![iPhone 6s Plus](https://img.shields.io/badge/iPhone%206s%20Plus-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP727)
+[![iPhone 5](https://img.shields.io/badge/iPhone%205-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP655)
+[![iPhone 4s](https://img.shields.io/badge/iPhone%204s-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP643)
+[![iPhone 4](https://img.shields.io/badge/iPhone%204-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP587)
 
 [![MacBook Air](https://img.shields.io/badge/MacBook%20Air-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macbook-air/)
 

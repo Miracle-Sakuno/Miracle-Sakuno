@@ -31,7 +31,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 
-[![Huawei WS5200 Gigahome SoC Quad Core](https://img.shields.io/badge/Huawei%20WS5200%20Gigahome%20SoC%20Quad%20Core-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://consumer.huawei.com/cn/support/routers/ws5200-four-cores/)
+[![Huawei WS5200 HiSilicon Gigahome SoC Quad Core](https://img.shields.io/badge/Huawei%20WS5200%20HiSilicon%20Gigahome%20SoC%20Quad%20Core-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://consumer.huawei.com/cn/support/routers/ws5200-four-cores/)
 
 ### Power Core (maid's💻)
 Environment

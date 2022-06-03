@@ -29,8 +29,9 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 [![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826)
 
-
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
+
+[![Huawei WS5200 Gigahome SoC Quad Core](https://img.shields.io/badge/Huawei%20WS5200%20Gigahome%20SoC%20Quad%20Core-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://consumer.huawei.com/cn/support/routers/ws5200-four-cores/)
 
 ### Power Core (maid's💻)
 Environment
@@ -40,6 +41,7 @@ Environment
 [![watchOS](https://img.shields.io/badge/watchOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com.cn/watchos/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/)
 [![Windows on ARM](https://img.shields.io/badge/Windows%20on%20ARM-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
+[![HarmonyOS Lite](https://img.shields.io/badge/HarmonyOS%20Lite-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.harmonyos.com/en/)
 
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
 

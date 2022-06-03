@@ -43,9 +43,9 @@ Environment
 [![Windows on ARM](https://img.shields.io/badge/Windows%20on%20ARM-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
 [![HarmonyOS Lite](https://img.shields.io/badge/HarmonyOS%20Lite-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.harmonyos.com/en/)
 
-### Genshin Impact (🌸)
+### Genshin Impact (🏅)
 
-![Genshin Impact](https://genshin-card.getloli.com/15/297901542.png)
+![Genshin Impact](https://genshin-card.getloli.com/14/297901542.png)
 
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
 

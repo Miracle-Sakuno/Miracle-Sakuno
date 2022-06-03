@@ -21,7 +21,6 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 - [![GitHub](https://img.shields.io/badge/%40Miracle樱乃.-4F4F4F???style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=4F4F4F)](https://github.com/Miracle-Sakuno/)
 - [![Twitter](https://img.shields.io/badge/%40Miracle樱乃.-00BBFF???style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=00BBFF)](https://twitter.com/Miracle_Sakuno)
 - [![Telegram Channel](https://img.shields.io/badge/%40Rabbit%20House-0088CC???style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/RabbitHouse_i)
-- ![Genshin Impact](https://genshin-card.getloli.com/1/297901542.png)
 
 ### Cuteness maids (Devices📱)
 [![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13-pro/specs/)
@@ -43,6 +42,10 @@ Environment
 [![Android](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=FFFFFF)](https://www.android.com/)
 [![Windows on ARM](https://img.shields.io/badge/Windows%20on%20ARM-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
 [![HarmonyOS Lite](https://img.shields.io/badge/HarmonyOS%20Lite-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.harmonyos.com/en/)
+
+### Genshin Impact (🌸)
+
+- ![Genshin Impact](https://genshin-card.getloli.com/4/297901542.png)
 
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
 

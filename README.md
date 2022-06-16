@@ -20,7 +20,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 - [![GitHub](https://img.shields.io/badge/%40Miracle樱乃.-4F4F4F???style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=4F4F4F)](https://github.com/Miracle-Sakuno/)
 - [![Twitter](https://img.shields.io/badge/%40Miracle樱乃.-00BBFF???style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=00BBFF)](https://twitter.com/Miracle_Sakuno)
-- [![Telegram](https://img.shields.io/badge/%40Rabbit%20House-0088CC???style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Miya_Profile)
+- [![Telegram](https://img.shields.io/badge/%40Miya%20-0088CC???style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Miya_Profile)
 
 ### Cuteness maids (Devices📱)
 [![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13-pro/specs/)

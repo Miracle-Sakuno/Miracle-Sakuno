@@ -8,7 +8,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 - 🌱 I'm a voice actor and a student.
 - 💕I like cute things.(^▽^)
-- 😸You can simply call me "小樱" or "嘤嘤乃".
+- 😸You can simply call me "小樱" or "Miya(米娅)".
 - ✨I like playing games(For example Genshin Impact etc..).
 - 👀Basic computer skills, will study.
 - 😊I hope I can become an excellent dubbing actor.

@@ -7,12 +7,14 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 >「氷結の魔女」
 
 - 🌱 I'm a voice actor and a student.
-- 💕I like cute things.(^▽^)
+- 💕I have a weakness for cute things.(^▽^)
 - 😸You can simply call me "小樱" or "Miya(米娅)".
 - ✨I like playing games(For example Genshin Impact etc..).
+- 📝Occasionally I use pencil to copy cartoon illustrations.
 - 👀Basic computer skills, will study.
 - 😊I hope I can become an excellent dubbing actor.
-- 🐼🐇❤️I love my motherland, China.
+- 🐼🐇❤️I love my motherland, China, I support the Chinese Communist Party and socialism/communism, and I trust the Chinese Communist Party to lead us to a communist society. Adhere to Marxism-Leninism and Mao Zedong Thought.
+
 
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=miracle-sakuno&show_icons=true&hide_border=true&icon_color=79dafa&title_color=ff6e96&text_color=FF75B5" align="right">
 

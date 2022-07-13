@@ -32,7 +32,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 [![iPhone 4s](https://img.shields.io/badge/iPhone%204s-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP643)
 [![iPhone 4](https://img.shields.io/badge/iPhone%204-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP587)
 
-[![MacBook Air](https://img.shields.io/badge/MacBook%20Air-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macbook-air/)
+[![MacBook Pro 14-inch 2021](https://img.shields.io/badge/MacBook%20Pro%2014-inch%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macbook-pro-14-and-16/specs/)
 
 [![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826)
 

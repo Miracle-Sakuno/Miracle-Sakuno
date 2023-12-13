@@ -37,7 +37,7 @@ Phone / Pad
 [![iPhone 4](https://img.shields.io/badge/iPhone%204-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP587)
 
 [![Google Pixel 3](https://img.shields.io/badge/Google%20Pixel%203-3ddc84?style=flat-square&logo=google&logoColor=FFFFFF)](https://store.google.com/)
-[![Mi Pad 4](https://img.shields.io/badge/Mi%20Pad%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]（https://www.mi.com/mipad4/specs）
+[![Mi Pad 4](https://img.shields.io/badge/Mi%20Pad%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mipad4/specs)
 
 
 Computer

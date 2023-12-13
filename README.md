@@ -27,7 +27,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 - [![Telegram](https://img.shields.io/badge/%40Miya%20Profile-0088CC???style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Miya_Profile)
 
 ### Cuteness maids (Devices📱)
-Phone
+Phone / Pad
 
 [![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13-pro/specs/)
 [![iPhone 6s](https://img.shields.io/badge/iPhone%206s-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP726)
@@ -37,6 +37,8 @@ Phone
 [![iPhone 4](https://img.shields.io/badge/iPhone%204-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP587)
 
 [![Google Pixel 3](https://img.shields.io/badge/Google%20Pixel%203-3ddc84?style=flat-square&logo=google&logoColor=FFFFFF)](https://store.google.com/)
+[![Mi Pad 4](https://img.shields.io/badge/Mi%20Pad%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]（https://www.mi.com/mipad4/specs）
+
 
 Computer
 

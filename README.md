@@ -23,13 +23,13 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 **Contact information**
 
 - [![GitHub](https://img.shields.io/badge/%40Miracle樱乃.-4F4F4F???style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=4F4F4F)](https://github.com/Miracle-Sakuno/)
-- [![Twitter](https://img.shields.io/badge/%40Miracle樱乃.-00BBFF???style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=00BBFF)](https://twitter.com/Miracle_Sakuno)
+- [![Twitter / X](https://img.shields.io/badge/%40Miracle樱乃.-00BBFF???style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=00BBFF)](https://twitter.com/Miracle_Sakuno)
 - [![Telegram](https://img.shields.io/badge/%40Miya%20Profile-0088CC???style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Miya_Profile)
 
 ### Cuteness maids (Devices📱)
 Phone / Pad
 
-[![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13-pro/specs/)
+[![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP852)
 [![iPhone 6s](https://img.shields.io/badge/iPhone%206s-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP726)
 [![iPhone 6s Plus](https://img.shields.io/badge/iPhone%206s%20Plus-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP727)
 [![iPhone 5](https://img.shields.io/badge/iPhone%205-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP655)
@@ -42,7 +42,7 @@ Phone / Pad
 
 Computer
 
-[![MacBook Pro 14-inch 2021](https://img.shields.io/badge/MacBook%20Pro%2014—inch%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macbook-pro-14-and-16/specs/)
+[![MacBook Pro 14-inch 2021](https://img.shields.io/badge/MacBook%20Pro%2014—inch%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP854)
 
 Wearables
 

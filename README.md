@@ -46,7 +46,7 @@ Computer
 
 Wearables
 
-[![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826)
+[![Apple Watch Series 6 (40mm Cellular)](https://img.shields.io/badge/Apple%20Watch%20Series%206-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP826)
 
 iPod
 

@@ -9,8 +9,8 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 - 🌱 I'm a voice actress and a student.
 - 💕I have a weakness for cute things.(^▽^)
 - 👩Female, but egalitarian.
-- 😸You can simply call me "小樱" or "Miya(米娅)".
-- ✨I like playing games(For example Genshin Impact etc..).
+- 😸You can simply call me "Sakuno" or "Miya".
+- ✨I like playing games(Honkai: Star Rail and Genshin Impact).
 - 📝Occasionally I use pencil to copy cartoon illustrations.
 - 👀Know a little bit of computer skills, just a little bit.
 - 🐦I am a little probie.

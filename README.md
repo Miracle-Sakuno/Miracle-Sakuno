@@ -65,7 +65,7 @@ Environment
 [![watchOS](https://img.shields.io/badge/watchOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com.cn/watchos/)
 [![Android](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=FFFFFF)](https://www.android.com/)
 [![Windows on ARM](https://img.shields.io/badge/Windows%20on%20ARM-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
-[![HarmonyOS Lite](https://img.shields.io/badge/HarmonyOS%20Lite-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.harmonyos.com/en/)
+[![HarmonyOS NEXT](https://img.shields.io/badge/HarmonyOS%20Lite-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.harmonyos.com/en/)
 
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
 

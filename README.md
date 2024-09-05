@@ -23,7 +23,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 **Contact information**
 
 - [![GitHub](https://img.shields.io/badge/%40Miracle樱乃.-4F4F4F???style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=4F4F4F)](https://github.com/Miracle-Sakuno/)
-- [![Twitter / X](https://img.shields.io/badge/%40Miracle樱乃.-00BBFF???style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=00BBFF)](https://twitter.com/Miracle_Sakuno)
+
 - [![Telegram](https://img.shields.io/badge/%40Miya%20Profile-0088CC???style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Miya_Profile)
 
 ### Cuteness maids (Devices📱)
@@ -66,10 +66,6 @@ Environment
 [![Android](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=FFFFFF)](https://www.android.com/)
 [![Windows on ARM](https://img.shields.io/badge/Windows%20on%20ARM-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
 [![HarmonyOS Lite](https://img.shields.io/badge/HarmonyOS%20Lite-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.harmonyos.com/en/)
-
-### Genshin Impact (🏅)
-
-![Genshin Impact](https://genshin-card.getloli.com/13/297901542.png)
 
 You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
 

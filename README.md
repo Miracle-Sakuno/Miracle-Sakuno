@@ -10,7 +10,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 - 💕I have a weakness for cute things.(^▽^)
 - 👩Female, but egalitarian.
 - 😸You can simply call me "Sakuno" or "Miya".
-- ✨I like playing games(Honkai: Star Rail and Genshin Impact).
+- ✨I like playing games(Infinity Nikki、Honkai: Star Rail and Genshin Impact).
 - 📝Occasionally I use pencil to copy cartoon illustrations.
 - 👀Know a little bit of computer skills, just a little bit.
 - 🐦I am a little probie.

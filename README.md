@@ -65,6 +65,4 @@ Environment
 [![Windows on ARM](https://img.shields.io/badge/Windows%20on%20ARM-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
 [![HarmonyOS NEXT](https://img.shields.io/badge/HarmonyOS%20NEXT-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://developer.huawei.com/consumer/cn/next)
 
-You can subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee.
-
-Thank you for your support
+I wish you happiness every day.

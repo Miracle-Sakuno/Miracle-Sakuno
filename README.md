@@ -5,7 +5,6 @@ Welcome to Rabbit House🐇. This is Miracle Sakuno's  Coffee House☕️.
 A child who is expected to be born in blessing, symbolizing miracle and happiness.
 
 >「氷結の魔女」
-- 🇨🇳I'm from China.
 - 🌱 I'm a voice actress and a student.
 - 💕I have a weakness for cute things.(^▽^)
 - 👩Female, but egalitarian.
@@ -16,7 +15,6 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 - 🐦I am a little probie.
 - 🍎Like Apple products (hope to collect the whole set)
 - 😊I hope I can become an excellent voice actress.
-- 🐼🐇❤️I love my motherland, China🇨🇳, I support the Communist Party of China and socialism/communism, and I trust the Communist Party of China to lead us to a communist society. Adhere to Marxism-Leninism and Mao Zedong Thought.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=miracle-sakuno&show_icons=true&hide_border=true&icon_color=79dafa&title_color=ff6e96&text_color=FF75B5&custom_title=Miya.">
 
@@ -55,7 +53,7 @@ iPod
 
 Router
 
-[![Huawei WS5200 HiSilicon Gigahome SoC Quad Core](https://img.shields.io/badge/Huawei%20WS5200%20HiSilicon%20Gigahome%20SoC%20Quad%20Core-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://consumer.huawei.com/cn/support/routers/ws5200-four-cores/)
+[![Huawei AX3 Pro WS7200 HiSilicon](https://img.shields.io/badge/Huawei%20WS7200%20HiSilicon-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://consumer.huawei.com/tw/routers/ax3-quad-core/)
 
 ### Power Core (maid's💻)
 Environment

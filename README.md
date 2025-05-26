@@ -19,7 +19,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 - [![Telegram](https://img.shields.io/badge/%40Miya%20Profile-0088CC???style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Miya_Profile)
 
-### Cuteness maids (Devices📱)
+### Cuteness maids (Devices)
 Phone / Pad
 
 [![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://support.apple.com/kb/SP852)
@@ -50,7 +50,7 @@ Router
 
 [![Huawei AX3 Pro WS7200 HiSilicon](https://img.shields.io/badge/Huawei%20WS7200%20HiSilicon-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://consumer.huawei.com/tw/routers/ax3-quad-core/)
 
-### Power Core (maid's💻)
+### Power Core (maid's)
 Environment
 
 [![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/)

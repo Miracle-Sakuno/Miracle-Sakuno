@@ -10,11 +10,6 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 - 👩Female, but egalitarian.
 - 😸You can simply call me "Sakuno" or "Miya".
 - ✨I like playing games(Honkai: Star Rail and Genshin Impact).
-- 📝Occasionally I use pencil to copy cartoon illustrations.
-- 👀Know a little bit of computer skills, just a little bit.
-- 🐦I am a little probie.
-- 🍎Like Apple products (hope to collect the whole set)
-- 😊I hope I can become an excellent voice actress.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=miracle-sakuno&show_icons=true&hide_border=true&icon_color=79dafa&title_color=ff6e96&text_color=FF75B5&custom_title=Miya.">
 

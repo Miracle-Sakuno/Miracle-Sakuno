@@ -5,11 +5,11 @@ Welcome to Rabbit House🐇. This is Miracle Sakuno's  Coffee House☕️.
 A child who is expected to be born in blessing, symbolizing miracle and happiness.
 
 >「氷結の魔女」
-- 🌱 I'm a voice actress and a student.
-- 💕I have a weakness for cute things.(^▽^)
-- 👩Female, but egalitarian.
-- 😸You can simply call me "Sakuno" or "Miya".
-- ✨I like playing games(Honkai: Star Rail and Genshin Impact).
+- I'm a voice actress and a student.
+- I have a weakness for cute things.(^▽^)
+- Female, but egalitarian.
+- You can simply call me "Sakuno" or "Miya".
+- I like playing games(Honkai: Star Rail and Genshin Impact).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=miracle-sakuno&show_icons=true&hide_border=true&icon_color=79dafa&title_color=ff6e96&text_color=FF75B5&custom_title=Miya.">
 

@@ -4,9 +4,9 @@ Welcome to Rabbit House🐇. This is Miracle Sakuno's  Coffee House☕️.
 > Princess of the far north, ruler of the winter sea.
 A child who is expected to be born in blessing, symbolizing miracle and happiness.
 
->「氷結の魔女」
+> Meeting you is the most beautiful miracle.
 
-Meeting you is the most beautiful miracle.
+>「氷結の魔女」
 
 - I have a weakness for cute things.(*^▽^*)
 - Female

@@ -6,7 +6,7 @@ A child who is expected to be born in blessing, symbolizing miracle and happines
 
 >「氷結の魔女」
 
-- I have a weakness for cute things.(*^▽^*)
+- I have a weakness for cute things.(^▽^)
 - Female
 - Bachelor of Arts (B.A.)
 - You can simply call me "Sakuno" or "Miya".
